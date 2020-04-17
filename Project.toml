@@ -1,0 +1,12 @@
+name = "LibAMVW_jll"
+uuid = "3420f54a-cca3-5752-a4b4-c8f5453f04ac"
+version = "1.0.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+
+[compat]
+julia = "1.0"
