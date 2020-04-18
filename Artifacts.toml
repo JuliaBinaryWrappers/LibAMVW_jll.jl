@@ -1,171 +1,171 @@
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "2524d946ad86e10e7ecc123221e242095e0651eb"
+git-tree-sha1 = "1bb70aae310fee631d5e30f92665454972a07ac1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "1d5545dbb094a092a9d07cb52996507b76e79425c901197915d5377f5fd87453"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "bbf64a0faf585e43d68d7493844b257c069c905fb5f642c423a9cfb158bde01e"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[LibAMVW]]
 arch = "powerpc64le"
-git-tree-sha1 = "dc064a4ed4be95fd4ce4f2ab650e5a2fda2a1e2c"
+git-tree-sha1 = "8060ed5fbc5e4f8fb22b17235bee29b971761aaf"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "b4b5a5ef2458a8c7e5edc3076c498a78d987b48b6f08e7a424d1bd6f55dfea8a"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "b260bc4d0e4bbc6681c7a3e6f4010f4288df5a020f799100cfceeb5ed0467f45"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[LibAMVW]]
 arch = "powerpc64le"
-git-tree-sha1 = "e8119ae4c496b57b77cd211dcea1699d1468ee20"
+git-tree-sha1 = "ed44cbda450405cd82b0f4e500176e90f1180cf5"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "f1fffe60b5921eef40387afe909e299528dce42bca354beec20a997a960c2d3e"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "ff158bb3f4451b8250c94eefef58eb901aac7598ebd83677b57384757c0925dd"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "powerpc64le"
-git-tree-sha1 = "b58b5fb6acfc5f8ee2d923b3b6421b42fd05afa7"
+git-tree-sha1 = "6de254d0595e01996d63f788288884e8c3f59926"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "f4bb125e78b55936ddc3215ba7adc68e790057feebadd080d49a51fd24502ebb"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "fb5574e1f276483139494f74c341870a7c0cd7110b7d5ab719878afda16a7efa"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "f4872f7a4f090786c6af7e1ccbbb1dbbd10be603"
+git-tree-sha1 = "f8d80b10d912baf28bc6a19bfc08035c6620be3c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "d7e64ff3d1b0cd47bf73ddf08accc3480b98ce561963098ceb3177568ea4edbd"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "c3abd68439f88ecb7cb5f17299e06f95b8a16f17b3ce116f8681ea797d403daf"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "c38c447b4a81ad73e9bac8cc999531a777f9b976"
+git-tree-sha1 = "fc5b312308dc87c69bcebbd25901c0f296bb3682"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[LibAMVW.download]]
-    sha256 = "481cae65fcc5767344eaf696be58c5c52083f609df3aaeef843b65bd45df75df"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "ff577f17bf8e57171cee4bd017b9cb5f1c380eda4a525c1cee3f226d30ee740c"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "78b22a9776acb0cb9f75018523ac9e62829c15ac"
+git-tree-sha1 = "65272c753c8decb2e3eeee06877867a7f04a8616"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "fd6a1b0290b2c112599fb049295058fe308eb49e88c6a40ae0b59a4bbdc3d9d1"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "dbe275be22154c42f74c737af493f9847bf41ce6644fd4e1e110d22856807de5"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "da4af5517d2b2e4b071e73adef61b4219af39152"
+git-tree-sha1 = "642ad29f84d7f190ae713bf1e755324c04010c18"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[LibAMVW.download]]
-    sha256 = "526862e35e6210244e68a779cce96803aac7b422602c84d6ed5a21fd453b7a81"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "83af2293175da1f63f8925b8c4a20760e05be01a87b7698eec19be09744f5a74"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "6e1aaafcc21b690fe6e1ec9fa4a405d59b1f96b1"
+git-tree-sha1 = "a04084ba98852a3f697acd4aa4082f72c438ef95"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[LibAMVW.download]]
-    sha256 = "6f5826f909835125f66938bda43fd4ef8999ec952876c4439c87f74da7b73a80"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+    sha256 = "cbbc55735d2f35fadea0fef92cc4ae7274051a07e4dc596ab5e0e6dd196920a0"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "9bb54a25a83ec2c7d23e40d0f2c8af458682a5e3"
+git-tree-sha1 = "4d499624a39235cd26c782c58688196c331254cd"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[LibAMVW.download]]
-    sha256 = "466a0cc6614be6cc8d053a36a7bebf109d1a4b7e11ae6090cee32afc518b016d"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+    sha256 = "92c14ab34547f9c0891f6b63af62edce6eced2b7a51115d4bea583dec34e0ff9"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-apple-darwin14-libgfortran4.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "3b5c9b8d2276a315c1a870ba92fbea4ae2c88e52"
+git-tree-sha1 = "8745168e03a4a47bbcabcfa481852e42f9313838"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[LibAMVW.download]]
-    sha256 = "ce0f794c29f982b0eafb35861fdd3a38586fe87a4d5bb5cc281d0a85193529d7"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "3f63ee029aefcf4cb9137ab28f5dbf504468d53c0feb625a969963afddcd2126"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "af93a1b4e824c4ac86dedfcb10897ee68d73e647"
+git-tree-sha1 = "6cf7b838a5e2fbac0c85e7cd828700b328ccaf92"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "3e7c74a3a3f8fc80f5cf93314536b03d0f77f75994bfcb9f2368d8c408d6625e"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "1749e5c1ccfcbe407d0ffae8c5e9228620eca306691787c385b147a380b4e58a"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-musl-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "a80c733192f8284b0f6e8abffa41093bcfc43bcc"
+git-tree-sha1 = "7464b85addde7d8d086053a834561d2565d8addd"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[LibAMVW.download]]
-    sha256 = "2a1134c7dd5537b066d462cdcb59c66455da062005584d2b962fb3ac4ea65ee5"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+    sha256 = "3fb23f2efd2e429417ec1a91587cc995e6dafb00be6b06f9159fdf9c729327ce"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-apple-darwin14-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "ca447e38934dab421cb2078c7ea87a1b9213df6f"
+git-tree-sha1 = "25cf40d76474e0e333eced07a37f784f30620dbb"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[LibAMVW.download]]
-    sha256 = "07754d16ad541a27715391b79070dd04adc8cdd1a3ebf2209f9bbdee543b8de7"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+    sha256 = "e271e25dda3b8a86556ab0b291e50402f26da12c00671cd67f06a99280bee0e2"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "8bea9f25c4b6ed7978ce662afc63fd5b1d49b881"
+git-tree-sha1 = "9fd7efb095455f277847fd18c041fdb82f314427"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "37dd91d674ad8753936b1d34c47505138558def1272f4dae90f0d1120b1dd201"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a32f7c42fb7f93cd3f2495297bb303e6ea0a81c4a3bbb73f202f8f4493c90af0"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "6f383d3a8a52243ea6437bd50d061fe38a387e35"
+git-tree-sha1 = "4df60cb09dc0b57064e99c6c1ee1e4ecbcbf29b1"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[LibAMVW.download]]
-    sha256 = "7514dd6c5ae470666b2e5a1d3d76c50de475fa3e33477bae3905506f59cbfccc"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "d0160d21ee7e4814aefc20a9daf9b28112bd21c16125edcd1f4985641f933ca3"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "3c94b8980993ea395fd98c27722aaaf2a66382ba"
+git-tree-sha1 = "785da1655df9c4e35bcb607bec084eed4da90bd3"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[LibAMVW.download]]
-    sha256 = "30655487744eaffa7bcb46f8665da83206d0d4d1a3b6fc32f90ec72fb3ed8379"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+    sha256 = "022aee362c000d0655c75c05e8c357e853debba09806dd7e312c47c9dea3b962"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-apple-darwin14-libgfortran3.tar.gz"
 [[LibAMVW]]
 arch = "x86_64"
-git-tree-sha1 = "820ac09fadd9ed35065bd944f28fedb698ca405b"
+git-tree-sha1 = "20a54bccf5543abbab3e2df1dae0d6df6a1d7b8f"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[LibAMVW.download]]
-    sha256 = "a3a988dabf819200deab689cba7cc1778f3fccb4bfbd49803b037769dfcfb11b"
-    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.0+0/LibAMVW.v1.0.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+    sha256 = "9e19aaf94d4032cf7aca96e86fe2d9583cf23569b4ec6e54c5ce2266e62a6676"
+    url = "https://github.com/JuliaBinaryWrappers/LibAMVW_jll.jl/releases/download/LibAMVW-v1.0.1+0/LibAMVW.v1.0.1.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
